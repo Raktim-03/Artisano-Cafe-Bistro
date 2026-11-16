@@ -120,7 +120,7 @@ const About =()=>{
                         </h2>
 
                         <p className="text-body leading-relaxed">
-                            Artisano is a celebration of culture, conversations
+                            কপৌ is a celebration of culture, conversations
                             and coffee. A space where every detail is crafted to
                             make your moments unforgettable.
                         </p>

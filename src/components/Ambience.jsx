@@ -222,7 +222,7 @@ const Ambience = () =>{
                                             ★★★★★
                                         </div>
                                         <h4 className="mt-2 font-medium text-gold/80">
-                                            Ananya Sharma
+                                            Ankita Kalita
                                         </h4>
 
                                         <p className="mt-3 text-sm text-body/110 leading-relaxed">
@@ -279,7 +279,7 @@ const Ambience = () =>{
                                     relative
                             ">
                                 <div className="flex gap-4">
-                                    <img src={FemaleUser} 
+                                    <img src={MaleUser} 
                                     alt="Female user"
                                     className="w-16 h-16 bg-gold/60 border border-espresso/15 rounded-full object-cover flex-shrink-0" />
 
@@ -288,7 +288,7 @@ const Ambience = () =>{
                                             ★★★★★
                                         </div>
                                         <h4 className="mt-2 font-medium text-gold/80">
-                                            Sujuma Machahary
+                                            Gaurav Paul
                                         </h4>
 
                                         <p className="mt-3 text-sm text-body/110 leading-relaxed">

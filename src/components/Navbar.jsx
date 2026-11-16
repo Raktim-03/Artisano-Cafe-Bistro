@@ -9,8 +9,8 @@ const Navbar = () =>{
             <div className = "flex items-center justify-between max-w-screen-2xl mx-auto px-6 md:px-8 py-5">
                 
                 <div className = "flex flex-col items-center">
-                    <h1 className="font-heading text-2xl md:text-3xl text-white">
-                       <a href="#home"> ARTISANO</a>
+                    <h1 className="font-heading fontWeight:bold text-2xl md:text-3xl text-white">
+                       <a href="#home"> কপৌ </a>
                     </h1>
                     <p className="font-body text-xs uppercase tracking-[0.2em] text-cream">
                        <a href="#home">Cafe & Bistro </a> 

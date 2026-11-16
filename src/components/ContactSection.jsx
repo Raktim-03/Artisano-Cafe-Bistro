@@ -24,7 +24,7 @@ const ContactSection = ()=>{
                                     <FiMapPin className="text-gold text-xl mt-1 flex-shrink-0"/>
                                     
                                     <p className="mt-3 text-white/80 leading-relaxed">
-                                        Tezpur University Road <br/> Napaam, Tezpur, Assam 784028
+                                        Assam Downtown University <br/> Guwahati, Assam 781026
                                     </p>
                                 </div>
 
@@ -63,8 +63,8 @@ const ContactSection = ()=>{
                             <div
                             className="overflow-hidden rounded-[1.5rem] border border-white/60 h-full min-h-[320px]">
                                 <iframe 
-                                    title ="Artisano Location"
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3564.424052445592!2d92.83167204740317!3d26.69889668588265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3744ebc8fd314411%3A0x28a60e3c5515613b!2sTezpur%20University!5e0!3m2!1sen!2sin!4v1781433164834!5m2!1sen!2sin"
+                                    title ="কপৌ  Location"
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3812.8754469691175!2d91.85823337566778!3d26.202708677077567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375af7b660782809%3A0xd44a733aaf3efb23!2sAssam%20Down%20Town%20University%20GATE!5e1!3m2!1sen!2sin!4v1794847861605!5m2!1sen!2sin"
                                     className="w-full h-full border-0"
                                     loading="lazy"
                                     allowFullScreen
@@ -143,7 +143,7 @@ const ContactSection = ()=>{
 
                             <div className = "flex flex-col items-center text-center lg:items-start lg:text-left ">
                                 <h1 className="font-heading text-2xl md:text-3xl text-espresso/70 ">
-                                   <a href="#home">ARTISANO</a>
+                                   <a href="#home">কপৌ </a>
                                 </h1>
                                 <p className="pl-0 lg:pl-3 font-body text-xs uppercase tracking-[0.2em]  text-espresso/70">
                                     <a href="#home">Cafe & Bistro</a>
@@ -166,7 +166,7 @@ const ContactSection = ()=>{
                         <div className="lg:col-span-3 mt-3 lg:mt-0">
                             <div className="flex flex-col items-center text-center lg:items-start lg:text-left">
                                 <p className="text-xs  tracking-[0.15em] text-espresso/70 leading-relaxed hover:cursor-pointer">
-                                    © 2026 Artisano Coffee & Culture <br/> All rights reserved.
+                                    © 2026 কপৌ  Coffee & Culture <br/> All rights reserved.
                                 </p>
                             </div>
 
